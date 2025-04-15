@@ -22,9 +22,10 @@ public class Endereco {
         this.logradouro = endereco.logradouro();
         this.bairro = endereco.bairro();
         this.cep = endereco.cep();
-        this.uf = endereco.ufc();
+        this.uf = endereco.uf();
         this.numero = endereco.numero();
         this.complemento = endereco.complemento();
         this.cidade = endereco.cidade();
     }
+
 }
