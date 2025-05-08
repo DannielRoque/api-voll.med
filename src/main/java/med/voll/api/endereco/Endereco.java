@@ -27,5 +27,4 @@ public class Endereco {
         this.complemento = endereco.complemento();
         this.cidade = endereco.cidade();
     }
-
 }
